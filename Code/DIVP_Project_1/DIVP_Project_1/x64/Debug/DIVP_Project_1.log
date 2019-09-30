@@ -1,0 +1,6 @@
+﻿  Source1.cpp
+c:\users\chandana\documents\visual studio 2015\projects\divp_project_1\divp_project_1\source1.cpp(61): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Source.cpp
+  Generating Code...
+  DIVP_Project_1.vcxproj -> C:\Users\CHANDANA\documents\visual studio 2015\Projects\DIVP_Project_1\x64\Debug\DIVP_Project_1.exe
+  DIVP_Project_1.vcxproj -> C:\Users\CHANDANA\documents\visual studio 2015\Projects\DIVP_Project_1\x64\Debug\DIVP_Project_1.pdb (Full PDB)
